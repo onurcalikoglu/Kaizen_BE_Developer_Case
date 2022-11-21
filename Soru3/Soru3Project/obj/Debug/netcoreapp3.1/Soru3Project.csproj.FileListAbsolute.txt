@@ -1,0 +1,14 @@
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\bin\Debug\netcoreapp3.1\Soru3Project.exe
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\bin\Debug\netcoreapp3.1\Soru3Project.deps.json
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\bin\Debug\netcoreapp3.1\Soru3Project.runtimeconfig.json
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\bin\Debug\netcoreapp3.1\Soru3Project.runtimeconfig.dev.json
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\bin\Debug\netcoreapp3.1\Soru3Project.dll
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\bin\Debug\netcoreapp3.1\Soru3Project.pdb
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.csproj.AssemblyReference.cache
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.AssemblyInfoInputs.cache
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.AssemblyInfo.cs
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.dll
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.pdb
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3Project\obj\Debug\netcoreapp3.1\Soru3Project.genruntimeconfig.cache

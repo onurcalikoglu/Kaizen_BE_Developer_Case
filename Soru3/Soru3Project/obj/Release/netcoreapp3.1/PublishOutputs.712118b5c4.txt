@@ -1,0 +1,5 @@
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3\bin\Release\netcoreapp3.1\publish\Soru3.exe
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3\bin\Release\netcoreapp3.1\publish\Soru3.dll
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3\bin\Release\netcoreapp3.1\publish\Soru3.deps.json
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3\bin\Release\netcoreapp3.1\publish\Soru3.runtimeconfig.json
+C:\Users\onurc\Desktop\Kaizen\Soru3\Soru3\bin\Release\netcoreapp3.1\publish\Soru3.pdb
